@@ -4,17 +4,19 @@
     "url": "https://seafile.wck.biz",
     "icon": "https://favicons.githubusercontent.com/seafile.wck.biz",
     "slug": "seafile",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 798,
-    "timeDay": 798,
-    "timeWeek": 798,
-    "timeMonth": 798,
-    "timeYear": 798,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.20%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "99.20%",
+    "uptimeYear": "99.20%",
+    "time": 705,
+    "timeDay": 705,
+    "timeWeek": 705,
+    "timeMonth": 705,
+    "timeYear": 705,
+    "dailyMinutesDown": {
+      "2021-01-05": 0
+    }
   }
 ]
