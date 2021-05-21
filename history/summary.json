@@ -4,7 +4,7 @@
     "url": "https://seafile.wck.biz",
     "icon": "https://favicons.githubusercontent.com/seafile.wck.biz",
     "slug": "seafile",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 870,
     "timeYear": 772,
     "dailyMinutesDown": {
+      "2021-05-21": 0,
       "2021-05-11": 57,
       "2021-01-05": 8
     }
