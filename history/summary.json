@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/seafile.wck.biz",
     "slug": "seafile",
     "status": "up",
-    "uptime": "95.47%",
+    "uptime": "95.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.83%",
-    "uptimeYear": "97.21%",
-    "time": 1999,
-    "timeDay": 1519,
-    "timeWeek": 1602,
-    "timeMonth": 1592,
-    "timeYear": 1880,
+    "uptimeYear": "97.49%",
+    "time": 2001,
+    "timeDay": 2329,
+    "timeWeek": 1699,
+    "timeMonth": 1616,
+    "timeYear": 1883,
     "dailyMinutesDown": {
       "2022-08-01": 644,
       "2022-07-31": 743,
@@ -40,8 +40,7 @@
       "2021-08-20": 1440,
       "2021-08-19": 1440,
       "2021-08-18": 1440,
-      "2021-08-17": 1440,
-      "2021-08-16": 1440
+      "2021-08-17": 1440
     }
   }
 ]
