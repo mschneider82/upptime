@@ -1,7 +1,7 @@
 url: https://seafile.wck.biz
-status: up
-code: 200
-responseTime: 1384
-lastUpdated: 2024-04-10T23:18:14.306Z
+status: down
+code: 503
+responseTime: 969
+lastUpdated: 2024-04-11T12:29:08.481Z
 startTime: 2021-01-05T08:51:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
