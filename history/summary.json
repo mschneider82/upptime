@@ -6,15 +6,15 @@
     "slug": "seafile",
     "status": "up",
     "uptime": "97.93%",
-    "uptimeDay": "97.86%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "98.88%",
-    "time": 2888,
-    "timeDay": 2473,
-    "timeWeek": 2261,
-    "timeMonth": 3967,
-    "timeYear": 2823,
+    "time": 2886,
+    "timeDay": 1887,
+    "timeWeek": 2267,
+    "timeMonth": 3949,
+    "timeYear": 2817,
     "dailyMinutesDown": {
       "2025-02-25": 31,
       "2025-01-25": 94,
@@ -41,8 +41,7 @@
       "2024-04-06": 17,
       "2024-03-24": 35,
       "2024-03-22": 20,
-      "2024-02-29": 339,
-      "2024-02-28": 181
+      "2024-02-29": 339
     }
   }
 ]
