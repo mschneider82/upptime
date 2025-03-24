@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/seafile.wck.biz.ico",
     "slug": "seafile",
     "status": "up",
-    "uptime": "97.96%",
+    "uptime": "97.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "98.98%",
-    "time": 3063,
-    "timeDay": 3186,
-    "timeWeek": 2704,
-    "timeMonth": 5139,
-    "timeYear": 2960,
+    "time": 3067,
+    "timeDay": 3146,
+    "timeWeek": 2770,
+    "timeMonth": 5175,
+    "timeYear": 2962,
     "dailyMinutesDown": {
       "2025-03-03": 42,
       "2025-03-02": 17,
@@ -40,8 +40,7 @@
       "2024-04-21": 21,
       "2024-04-11": 38,
       "2024-04-07": 16,
-      "2024-04-06": 17,
-      "2024-03-24": 35
+      "2024-04-06": 17
     }
   }
 ]
