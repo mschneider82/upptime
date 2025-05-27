@@ -4,8 +4,8 @@
     "url": "https://seafile.wck.biz",
     "icon": "https://icons.duckduckgo.com/ip3/seafile.wck.biz.ico",
     "slug": "seafile",
-    "status": "up",
-    "uptime": "98.02%",
+    "status": "down",
+    "uptime": "98.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.56%",
@@ -16,6 +16,7 @@
     "timeMonth": 3122,
     "timeYear": 3011,
     "dailyMinutesDown": {
+      "2025-05-27": 0,
       "2025-05-05": 329,
       "2025-04-30": 304,
       "2025-04-08": 48,
