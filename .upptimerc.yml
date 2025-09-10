@@ -6,6 +6,8 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: Seafile
     url: https://seafile.wck.biz
+  - name: RauchmelderApp
+    url: https://www.rauchmelderapp.de
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
